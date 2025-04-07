@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="green_dark">#113119</color>
+    <color name="green_light">#33B954</color>
+    <color name="green_ligher">#EAFFED</color>
+    <color name="rippleColor">#9AD4D4D4</color>
+    <color name="red">#FA7168</color>
+    <color name="splash_color">#DDFFE2</color>
+    <color name="edit_text_hint_color">#999999</color>
+    <color name="filledButtonColor">#42794A</color>
+    <color name="edit_text_border_color">#DDDDDD</color>
+    <color name="title_text_color">#252525</color>
+    <color name="description_text_color">#999999</color>
+    <color name="gray_light">#DDDDDD</color>
+    <color name="gray_dark">#777777</color>
+    <color name="gray_medium">#999999</color>
+    <color name="gray_lighter">#F5F5F5</color>
+    <color name="black10">#FF252525</color>
+    <color name="dark_green10">#FF42794A</color>
+    <color name="dark_green10_60Percent">#8042794A</color>
+    <color name="green10">#FF61CE70</color>
+    <color name="green70">#FF94CA9C</color>
+    <color name="green90">#FFEAFFED</color>
+    <color name="grey10">#FFEEEEEE</color>
+    <color name="grey20">#999999</color>
+    <color name="yellow">#FFFFF3CD</color>
+</resources>

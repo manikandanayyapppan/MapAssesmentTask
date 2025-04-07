@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapAssessmentTask</string>
+    <string name="msg_no_internet">No internet connection</string>
+    <string name="msg_no_data">No data available</string>
+</resources>

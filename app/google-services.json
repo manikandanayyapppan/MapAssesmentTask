@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "994554212957",
+    "project_id": "com.example.mapassesmenttask",
+    "storage_bucket": "qpay-business.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994554212957:android:6ff0150f37ae62008793b4",
+        "android_client_info": {
+          "package_name": "com.example.mapassesmenttask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbM1WhpH7jRo97BePncTdmmLH_4WQCnvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994554212957:android:f70fd85084aabfbe8793b4",
+        "android_client_info": {
+          "package_name": "qpay.b2b.android.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbM1WhpH7jRo97BePncTdmmLH_4WQCnvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994554212957:android:4299f0647108d5a68793b4",
+        "android_client_info": {
+          "package_name": "qpay.b2b.android.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbM1WhpH7jRo97BePncTdmmLH_4WQCnvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
