@@ -6,35 +6,40 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.view.MainActivity">
+    <ImageView
+        android:id="@+id/backgroundImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/img" />
+
 
     <com.google.android.material.button.MaterialButton
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="176dp"
+        android:layout_height="108dp"
         android:id="@+id/uiBtnFetchLocation"
-        android:backgroundTint="#FF2424"
-        android:text="Dine In"
+        android:text="Fetch Current Location"
         android:textSize="20sp"
         android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:backgroundTint="@color/violet"
+        android:layout_marginStart="2dp"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="176dp"
+        android:layout_height="108dp"
+        android:id="@+id/uiBtnMapList"
+        android:text="go to map List"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:backgroundTint="@color/violet"
+        android:layout_marginStart="5dp"
         app:cornerRadius="20dp"
         android:textColor="@color/white"
-        android:layout_margin="50dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        />
-    <com.google.android.material.button.MaterialButton
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/uiBtnMapList"
-        android:text="Takeaway"
-        android:textStyle="bold"
-        android:textSize="20sp"
-        android:layout_margin="50dp"
-        android:backgroundTint="#FF2424"
-        app:cornerRadius="20dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/uiBtnFetchLocation"
-      />
+        app:layout_constraintStart_toEndOf="@id/uiBtnFetchLocation"
+        app:layout_constraintTop_toTopOf="@id/uiBtnFetchLocation"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

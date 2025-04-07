@@ -27,4 +27,6 @@
     <color name="grey10">#FFEEEEEE</color>
     <color name="grey20">#999999</color>
     <color name="yellow">#FFFFF3CD</color>
+    <color name="plum_purple">#7C035D</color>
+    <color name="violet">#4A0A3A</color>
 </resources>
