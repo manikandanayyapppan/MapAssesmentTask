@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-mergeDebugResources-48:\\layout\\activity_location.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-main-51:\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-mergeDebugResources-48:\\layout\\activity_map_list.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-main-51:\\layout\\activity_map_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-mergeDebugResources-48:\\layout\\item.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-main-51:\\layout\\item.xml"
+    },
+    {
+        "merged": "com.example.mapassesmenttask.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.mapassesmenttask.app-main-51:/layout/activity_main.xml"
+    }
+]

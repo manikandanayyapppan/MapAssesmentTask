@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.view.MainActivity">
+    <ImageView
+        android:id="@+id/backgroundImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/img" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="176dp"
+        android:layout_height="108dp"
+        android:id="@+id/uiBtnFetchLocation"
+        android:text="Fetch Current Location"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:backgroundTint="@color/violet"
+        android:layout_marginStart="2dp"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="176dp"
+        android:layout_height="108dp"
+        android:id="@+id/uiBtnMapList"
+        android:text="go to map List"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:backgroundTint="@color/violet"
+        android:layout_marginStart="5dp"
+        app:cornerRadius="20dp"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toEndOf="@id/uiBtnFetchLocation"
+        app:layout_constraintTop_toTopOf="@id/uiBtnFetchLocation"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
