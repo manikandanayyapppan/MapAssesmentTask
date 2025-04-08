@@ -2,6 +2,7 @@ R_DEF: Internal format may change without notice
 local
 color black
 color black10
+color blue
 color dark_green10
 color dark_green10_60Percent
 color description_text_color
@@ -35,8 +36,11 @@ drawable ic_imag
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_location
+drawable ic_warld
+drawable image5
 drawable img_2
 drawable maps
+drawable warld
 id backgroundImage
 id main
 id uiBtnConfirmLocation

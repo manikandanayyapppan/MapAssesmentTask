@@ -1408,6 +1408,7 @@ int color background_material_dark 0x7f05001f
 int color background_material_light 0x7f050020
 int color black 0x7f050021
 int color black10 0x7f050022
+int color blue 0x7f050331
 int color bright_foreground_disabled_material_dark 0x7f050023
 int color bright_foreground_disabled_material_light 0x7f050024
 int color bright_foreground_inverse_material_dark 0x7f050025
@@ -3134,6 +3135,8 @@ int drawable ic_mtrl_chip_checked_black 0x7f0700af
 int drawable ic_mtrl_chip_checked_circle 0x7f0700b0
 int drawable ic_mtrl_chip_close_circle 0x7f0700b1
 int drawable ic_search_black_24 0x7f0700b2
+int drawable ic_warld 0x7f070103
+int drawable image5 0x7f070104
 int drawable img_2 0x7f0700b4
 int drawable indeterminate_static 0x7f0700b5
 int drawable m3_avd_hide_password 0x7f0700b6
@@ -3212,6 +3215,7 @@ int drawable notify_panel_notification_icon_bg 0x7f0700fe
 int drawable test_level_drawable 0x7f0700ff
 int drawable tooltip_frame_dark 0x7f070100
 int drawable tooltip_frame_light 0x7f070101
+int drawable warld 0x7f070105
 int id ALT 0x7f080000
 int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002

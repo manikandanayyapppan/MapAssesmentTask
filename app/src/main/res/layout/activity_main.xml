@@ -11,18 +11,18 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/ic_imag" />
+        android:src="@drawable/image5"/>
 
 
     <com.google.android.material.button.MaterialButton
         android:layout_width="176dp"
         android:layout_height="108dp"
         android:id="@+id/uiBtnFetchLocation"
-        android:text="go to map List"
+        android:text="@string/GotoMapList"
         android:textSize="20sp"
         android:textStyle="bold"
         app:cornerRadius="20dp"
-        android:backgroundTint="@color/violet"
+        android:backgroundTint="@color/blue"
         android:layout_marginStart="2dp"
         android:textColor="@color/white"
         app:layout_constraintStart_toStartOf="parent"
@@ -31,10 +31,10 @@
         android:layout_width="176dp"
         android:layout_height="108dp"
         android:id="@+id/uiBtnMapList"
-        android:text="Fetch Current Location"
+        android:text="@string/FetchCurrentLocation"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:backgroundTint="@color/violet"
+        android:backgroundTint="@color/blue"
         android:layout_marginStart="5dp"
         app:cornerRadius="20dp"
         android:textColor="@color/white"
