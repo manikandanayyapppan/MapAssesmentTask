@@ -3121,6 +3121,7 @@ int drawable ic_call_decline_low 0x7f0700a3
 int drawable ic_clear_black_24 0x7f0700a4
 int drawable ic_clock_black_24dp 0x7f0700a5
 int drawable ic_confirm_location 0x7f0700a6
+int drawable ic_imag 0x7f070102
 int drawable ic_keyboard_black_24dp 0x7f0700a7
 int drawable ic_launcher_background 0x7f0700a8
 int drawable ic_launcher_foreground 0x7f0700a9
@@ -3133,7 +3134,6 @@ int drawable ic_mtrl_chip_checked_black 0x7f0700af
 int drawable ic_mtrl_chip_checked_circle 0x7f0700b0
 int drawable ic_mtrl_chip_close_circle 0x7f0700b1
 int drawable ic_search_black_24 0x7f0700b2
-int drawable img 0x7f0700b3
 int drawable img_2 0x7f0700b4
 int drawable indeterminate_static 0x7f0700b5
 int drawable m3_avd_hide_password 0x7f0700b6

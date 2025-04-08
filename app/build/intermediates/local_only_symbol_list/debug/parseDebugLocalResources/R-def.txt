@@ -31,10 +31,10 @@ color white
 color yellow
 drawable ic_back
 drawable ic_confirm_location
+drawable ic_imag
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_location
-drawable img
 drawable img_2
 drawable maps
 id backgroundImage

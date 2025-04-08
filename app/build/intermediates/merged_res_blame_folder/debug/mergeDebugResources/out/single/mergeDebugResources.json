@@ -12,10 +12,6 @@
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-main-51:\\drawable\\ic_back.xml"
     },
     {
-        "merged": "com.example.mapassesmenttask.app-debug-49:/drawable_img.png.flat",
-        "source": "com.example.mapassesmenttask.app-main-51:/drawable/img.png"
-    },
-    {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-debug-49:\\drawable_ic_location.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-main-51:\\drawable\\ic_location.xml"
     },
@@ -42,6 +38,10 @@
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mapassesmenttask.app-debug-49:/drawable_ic_imag.jpg.flat",
+        "source": "com.example.mapassesmenttask.app-main-51:/drawable/ic_imag.jpg"
     },
     {
         "merged": "C:\\Users\\user\\.gradle\\daemon\\8.10.2\\com.example.mapassesmenttask.app-debug-49:\\mipmap-mdpi_ic_launcher.webp.flat",
